@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : nov 2017 02:12:59
+    Author     : 00140236
+*/
+ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 60px;
+    background: red;
+    padding: 8px;
+    border-radius:2px;
+    color:white;
+}
+#cabecera{
+    text-align: center;
+    font-family:Harrington;
+    color: red;
+}
+#menu{
+    text-align: center;
+}
+
+#cuerpo{
+    text-align: center;
+    font-family: Algerian;
+    font-size: 20px;
+    
+    
+}
+img{
+    border-radius: 2px;
+    
+}
+#pie{
+    text-align: center; 
+    background: red;
+    color:white;
+}
+
+
+form{
+    width:700px;
+    margin: 0 auto;
+    border: 2px solid buttonface;
+    border-radius: 10px;
+    padding: 4em;
+}
+
+#formulario h1{
+    text-align: center;
+        
+}
+label{
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 1em;
+    
+}
+
+input,textarea{
+    width: 250px;
+    font: 1.1em cursive;
+    border: 1px solid yellow;
+    
+}
+input:focus,textarea:focus{
+    border-color: red;
+}
+textarea{
+    vertical-align: middle;
+}
+.button{
+    padding-left: 110px;    
+}
+button{
+     font-size: 1.3em;
+    font-weight: bold;
+ }
+ a{
+     color:white;
+     text-decoration: none;
+ }
+ a:hover{
+     font-size: 61px;
+     color: red;
+ }
+
+ 
